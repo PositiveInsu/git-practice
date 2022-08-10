@@ -1,3 +1,3 @@
 # git-practice
-Smash git!
+OhSmash git!
 HaHa
