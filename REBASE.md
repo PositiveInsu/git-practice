@@ -1,3 +1,0 @@
-test
-MAIN
-REBASE_BRANCH
