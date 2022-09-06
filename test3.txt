@@ -1,1 +1,2 @@
 make file after fast forward commit
+test
