@@ -1,5 +1,7 @@
 # Practice Git
 
+Follow the git [manual](https://git-scm.com/book/en/v2) to practice git flow. 
+
 ## Git 
 
 Git log graph by date order
