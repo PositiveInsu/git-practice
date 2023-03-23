@@ -4,7 +4,7 @@ Follow the git [manual](https://git-scm.com/book/en/v2) to practice git flow.
 
 ## Git 
 
-Put the command to the .gitconfig than you can easily use this command.
+Put the command below to the .gitconfig then you can easily use this command.
 
 Git log graph by date order
 
